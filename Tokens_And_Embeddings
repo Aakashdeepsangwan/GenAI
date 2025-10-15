@@ -1,0 +1,28 @@
+Tokenizer Methods 
+Tokenization Method 
+Initialization Parameters
+Domain of the data the tokenizer targets 
+
+
+
+Tokenization Methods
+BERT BASE MODEL
+GPT-2
+GPT-4
+StartCoder
+
+
+Tokenizer Parameters
+
+Vocabulary Size - tokenizer Vocab(20k-50K)
+Special Tokens - 
+Beginning of the text token <s>
+End of text token
+Padding toke
+Unknown Token
+CLS Token 
+Masking Token
+Capitalization 
+
+
+Domain of the Data
