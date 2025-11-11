@@ -1,3 +1,4 @@
 *.env
 .venv
+.Practive.ipynb
 
