@@ -1,0 +1,4 @@
+*.env
+.venv
+Practice.ipynb
+0-DataIngestParsing/
