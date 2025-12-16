@@ -16,4 +16,6 @@ unstructured[docx]
 matplotlib
 
 
+langchain-huggingface
+sentence-transformers
 
