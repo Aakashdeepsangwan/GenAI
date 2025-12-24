@@ -1,0 +1,9 @@
+Install uvicorn  - used to run the web server
+Django - don't need to install anything to run the web server
+FastAPI is very light library
+
+
+
+>> Using Unicorn Url in the browser inside the /docs we can checkout the working of the API
+we don't need postman or some external tool to check the status of the API
+
