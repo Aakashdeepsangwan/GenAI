@@ -1,0 +1,14 @@
+[project]
+name = "agenticai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.0",
+    "langchain-community>=0.3.31",  # Check for latest version
+    "langchain-google-genai>=2.1.12",  # Check for latest version
+    "langchain-groq>=0.3.8",  # Check for latest version
+    "langchain-openai>=0.3.35",  # Check for latest version
+    "python-dotenv>=1.2.1",
+]
